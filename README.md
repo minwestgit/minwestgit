@@ -22,9 +22,9 @@
 <center> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwest&layout=compact)](https://github.com/metleeha) </center>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minwest&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minwest" />
 </a>
 
 <a href="https://github.com/metleeha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minwest&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwest&layout=compact" />
 </a>
