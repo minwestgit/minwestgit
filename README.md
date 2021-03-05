@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=minwestgit&fontSize=70)
 
 
-<center> ## Hi there 👋 </center>
-<center> ### Skill </center>
+<p align="center" style="font-size:15px"> Skill </p>
 
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -18,12 +17,13 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=minwest" />
 </a>
+
 <br>
+
 <a href="https://github.com/metleeha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwest&layout=compact" />
 </a>
-</center>
+
