@@ -11,7 +11,8 @@
 <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-
-[![minwest's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwest)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwest&layout=compact)](https://github.com/metleeha)
+
+[![minwest's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwestgit)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwestgit&layout=compact)](https://github.com/metleeha)
