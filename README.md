@@ -18,13 +18,10 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<center> [![minwest's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwest)](https://github.com/anuraghazra/github-readme-stats) </center>
-<center> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwest&layout=compact)](https://github.com/metleeha) </center>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=minwest" />
 </a>
-
+<br>
 <a href="https://github.com/metleeha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwest&layout=compact" />
 </a>
