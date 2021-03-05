@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=minwestgit&fontSize=70)
 
 
-## Hi there 👋 <br>
-### Skill <br>
-<p align="center">
+## Hi there 👋 
+### Skill
 
+<p align="center">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -17,12 +17,12 @@
 <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-<br
-<center>
+<br/>
+<p align="center">
 [![minwest's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwest)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+</p>
 <br>
-<center>
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwest&layout=compact)](https://github.com/metleeha)
-</center>
+</p>
 
