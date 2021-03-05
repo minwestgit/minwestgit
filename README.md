@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=minwestgit&fontSize=70)
 
 
-<p align="center" style="font-size:15px"> Skill </p>
+<p align="center" style="font-size:20px; font-weight:bolder;"> Skill </p>
 
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 <br>
 
-<a href="https://github.com/metleeha">
+<a href="https://github.com/metleeha" style="align:center;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwest&layout=compact" />
 </a>
 
