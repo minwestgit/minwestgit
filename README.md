@@ -1,4 +1,6 @@
-<p align="left">
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=minwestgit&fontSize=70)
+
+<p align="center">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -11,7 +13,3 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 <br>
-
-[![minwest's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwestgit)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwestgit&layout=compact)](https://github.com/metleeha)
