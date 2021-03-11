@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-<p align="center" style="font-size:20px;"> 👩‍💻 </p>
+<p align="center"> 👩‍💻 </p>
 <p align="center"> <b>minwestgit</b> </p>
 
 
