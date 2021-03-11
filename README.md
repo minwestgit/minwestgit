@@ -1,15 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=minwestgit&fontSize=70)
-
-<br/>
 <br/>
 <br/>
 
 <p align="center"> 👩‍💻 </p>
+<p align="center"> <b>minwestgit</b> </p>
+
 
 <br/>
 <br/>
 
-<p align="center"> 📍<b>Skill</b>📍 </p>
+<p align="center"> 📍<b> Skill</b>📍 </p>
 
 <br/>
 
