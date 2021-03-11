@@ -1,14 +1,14 @@
 <br/>
 <br/>
 
-<p align="center"> 👩‍💻 </p>
+<p align="center" style="font-size:20px;"> 👩‍💻 </p>
 <p align="center"> <b>minwestgit</b> </p>
 
 
 <br/>
 <br/>
 
-<p align="center"> 📍<b> Skill</b>📍 </p>
+<p align="center"> 📍 Skill📍 </p>
 
 <br/>
 
